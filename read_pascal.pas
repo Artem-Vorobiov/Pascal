@@ -1,7 +1,7 @@
 program read_from;
 
 var
-	x : integer;
+	x : longint;
 begin
 	write('Input a number which would be squared up: ');
 	read(x);
