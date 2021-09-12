@@ -1,0 +1,1 @@
+Input a number which would be squared up: x = 144
