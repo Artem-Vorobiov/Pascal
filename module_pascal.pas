@@ -2,9 +2,12 @@ program Module;
 var
 	x : integer;
 begin
+	writeln();
+	write('Please, input a random number: ');
 	read(x);
 	if x > 0 then
-		writeln(x)
+		writeln('The vatiable is greater then zero!')
 	else
-		writeln(x)
+		writeln('The vatiable is less then zero!');
+	writeln()
 end.

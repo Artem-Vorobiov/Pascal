@@ -4,7 +4,7 @@ var
 	negative: boolean;
 begin
 	read(x);
-	writeln(x);
+	// writeln(x);
 	negative := x < 0;
 	if negative then
 		x := -x;
